@@ -1,0 +1,4 @@
+1.Fill the folder "dataset" with folders with images.
+2.Run "extract_embeddings.py" to extract facial embeddings.
+3.Train the SVM model by running "train_model.py".
+4.Test the model by running "recognize_video.py"
