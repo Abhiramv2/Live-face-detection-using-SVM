@@ -1,3 +1,8 @@
+For live face detection:
+1.Run "face_detection.py"
+
+For live face recognition:
+
 1.Fill the folder "dataset" with folders of images.
 2.Run "extract_embeddings.py" to extract facial embeddings.
 3.Train the SVM model by running "train_model.py".
